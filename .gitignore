@@ -95,6 +95,11 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+bin
+.idea
+lib
+.lib
+pyvenv.cfg
 env/
 venv/
 ENV/
