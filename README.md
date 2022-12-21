@@ -1,12 +1,8 @@
 # LAB 1 - Class 401d20
 
----
-
 ## snakes-cafe
 
----
-
-#### DeShon Dixon
+#### *Author:* DeShon Dixon
 
 ---
 
