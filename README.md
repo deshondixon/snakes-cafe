@@ -1,35 +1,27 @@
-LAB 1 - Class 401d20
+# LAB 1 - Class 401d20
 
-Project: snakes-cafe
+---
 
-Author: DeShon Dixon
+## snakes-cafe
 
-Links and Resources
+---
 
-back-end server url (when applicable)
+#### DeShon Dixon
 
-front-end application (when applicable)
+---
 
-Setup
+## Overview
 
-.env requirements (where applicable)
+When run, the program prints an intro message and the menu for snakes cafe.
 
-i.e.
+The restaurant’s menu includes appetizers, entrees, desserts, and beverages.
 
-PORT - Port Number
+The program prompts the user for an order.
 
-DATABASE_URL - URL to the running Postgres instance/db
+When a user enters an item, the program prints an acknowledgment of their input
 
-How to initialize/run your application (where applicable)
+The program tells the user how to exit.
 
-e.g. python main.py
+---
 
-How to use your library (where applicable)
-
-Tests
-
-How do you run tests?
-
-Any tests of note?
-
-Describe any tests that you did not complete, skipped, etc
+## Tests
