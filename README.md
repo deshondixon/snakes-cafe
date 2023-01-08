@@ -20,4 +20,7 @@ The program tells the user how to exit.
 
 ---
 
-## Tests
+## Run
+
+To run program python3.11 ./snakes_cafe.py
+
